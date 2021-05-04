@@ -1,1 +1,25 @@
 https://mega.nz/file/J1gjGCKD#xL4VqgF6nZ0y5fjDuVBsdgwRK2MDidA4Pj1yW5XzOfE
+[General]
+Title=phBot v%0 - %1 - %2
+Password=i8WhfTu4lotVrN7L
+X-Trap=craptrap.phbot.org
+ReduceSilkroad=false
+BindIP=None
+SocksIP=
+SocksPort=
+SocksUser=
+SocksPass=
+SocksVersion=5
+SwitchGatewayAttempts=4
+EnglishPatch=false
+Queue=false
+HideLogin=false
+SilkroadServer=Pergamon
+TRSRO_Gateway=Random
+Username=phbot_3724841862
+TRSROPath=C:/Program Files (x86)/SilkroadTR
+iSRO_Gateway=Random
+iSROPath=A:/Silkroad
+white=0
+AutoCaptcha=false
+AutoCaptchaDelay=1
